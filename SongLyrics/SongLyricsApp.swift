@@ -11,7 +11,7 @@ import SwiftUI
 struct SongLyricsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LyricsView()
         }
     }
 }
